@@ -1,0 +1,1 @@
+Number of Sunday as first day of month in Range 1901 to 2000 is 171
